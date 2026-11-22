@@ -1,0 +1,31 @@
+Employee ID,Engagement Survey Date,Engagement Score,eNPS,Recognition Received,Recognition Date,Stay Interview Date,Stay Interview Notes,Wellbeing/Support Request,Engagement Action,Action Owner,Action Due Date,Action Status
+EMP001,02-Sep-2026,6,0,No,,05-Sep-2026,Workload has increased; requests prioritisation support.,Yes,Review workload and priorities,HRBP,23-Sep-2026,In Progress
+EMP002,03-Sep-2026,7,10,No,,06-Sep-2026,Appreciates manager support and learning opportunities.,No,Share relevant learning pathway,Learning Partner,24-Sep-2026,Open
+EMP003,04-Sep-2026,8,30,Yes,25-Aug-2026,07-Sep-2026,Would value clearer role expectations and regular feedback.,No,Set regular manager check-ins,People Manager,25-Sep-2026,Open
+EMP004,05-Sep-2026,9,55,No,,08-Sep-2026,Interested in stretch assignments and cross-functional exposure.,No,Explore a stretch assignment,HRBP,26-Sep-2026,Open
+EMP005,06-Sep-2026,5,-20,No,,09-Sep-2026,Positive about team collaboration; interested in career growth.,Yes,Career discussion with manager,Learning Partner,27-Sep-2026,In Progress
+EMP006,07-Sep-2026,6,0,Yes,28-Aug-2026,10-Sep-2026,Workload has increased; requests prioritisation support.,Yes,Review workload and priorities,People Manager,28-Sep-2026,In Progress
+EMP007,08-Sep-2026,7,10,No,,11-Sep-2026,Appreciates manager support and learning opportunities.,No,Share relevant learning pathway,HRBP,29-Sep-2026,Open
+EMP008,09-Sep-2026,8,30,No,,12-Sep-2026,Would value clearer role expectations and regular feedback.,No,Set regular manager check-ins,Learning Partner,30-Sep-2026,Open
+EMP009,10-Sep-2026,9,55,Yes,31-Aug-2026,13-Sep-2026,Interested in stretch assignments and cross-functional exposure.,No,Explore a stretch assignment,People Manager,01-Oct-2026,Open
+EMP010,11-Sep-2026,5,-20,No,,14-Sep-2026,Positive about team collaboration; interested in career growth.,Yes,Career discussion with manager,HRBP,02-Oct-2026,In Progress
+EMP011,12-Sep-2026,6,0,No,,15-Sep-2026,Workload has increased; requests prioritisation support.,Yes,Review workload and priorities,Learning Partner,03-Oct-2026,In Progress
+EMP012,13-Sep-2026,7,10,Yes,03-Sep-2026,16-Sep-2026,Appreciates manager support and learning opportunities.,No,Share relevant learning pathway,People Manager,04-Oct-2026,Open
+EMP013,14-Sep-2026,8,30,No,,17-Sep-2026,Would value clearer role expectations and regular feedback.,No,Set regular manager check-ins,HRBP,05-Oct-2026,Open
+EMP014,15-Sep-2026,9,55,No,,18-Sep-2026,Interested in stretch assignments and cross-functional exposure.,No,Explore a stretch assignment,Learning Partner,06-Oct-2026,Open
+EMP015,01-Sep-2026,5,-20,Yes,22-Aug-2026,04-Sep-2026,Positive about team collaboration; interested in career growth.,Yes,Career discussion with manager,People Manager,22-Sep-2026,In Progress
+EMP016,02-Sep-2026,6,0,No,,05-Sep-2026,Workload has increased; requests prioritisation support.,Yes,Review workload and priorities,HRBP,23-Sep-2026,In Progress
+EMP017,03-Sep-2026,7,10,No,,06-Sep-2026,Appreciates manager support and learning opportunities.,No,Share relevant learning pathway,Learning Partner,24-Sep-2026,Open
+EMP018,04-Sep-2026,8,30,Yes,25-Aug-2026,07-Sep-2026,Would value clearer role expectations and regular feedback.,No,Set regular manager check-ins,People Manager,25-Sep-2026,Open
+EMP019,05-Sep-2026,9,55,No,,08-Sep-2026,Interested in stretch assignments and cross-functional exposure.,No,Explore a stretch assignment,HRBP,26-Sep-2026,Open
+EMP020,06-Sep-2026,5,-20,No,,09-Sep-2026,Positive about team collaboration; interested in career growth.,Yes,Career discussion with manager,Learning Partner,27-Sep-2026,In Progress
+EMP021,07-Sep-2026,6,0,Yes,28-Aug-2026,10-Sep-2026,Workload has increased; requests prioritisation support.,Yes,Review workload and priorities,People Manager,28-Sep-2026,In Progress
+EMP022,08-Sep-2026,7,10,No,,11-Sep-2026,Appreciates manager support and learning opportunities.,No,Share relevant learning pathway,HRBP,29-Sep-2026,Open
+EMP023,09-Sep-2026,8,30,No,,12-Sep-2026,Would value clearer role expectations and regular feedback.,No,Set regular manager check-ins,Learning Partner,30-Sep-2026,Open
+EMP024,10-Sep-2026,9,55,Yes,31-Aug-2026,13-Sep-2026,Interested in stretch assignments and cross-functional exposure.,No,Explore a stretch assignment,People Manager,01-Oct-2026,Open
+EMP025,11-Sep-2026,5,-20,No,,14-Sep-2026,Positive about team collaboration; interested in career growth.,Yes,Career discussion with manager,HRBP,02-Oct-2026,In Progress
+EMP026,12-Sep-2026,6,0,No,,15-Sep-2026,Workload has increased; requests prioritisation support.,Yes,Review workload and priorities,Learning Partner,03-Oct-2026,In Progress
+EMP027,13-Sep-2026,7,10,Yes,03-Sep-2026,16-Sep-2026,Appreciates manager support and learning opportunities.,No,Share relevant learning pathway,People Manager,04-Oct-2026,Open
+EMP028,14-Sep-2026,8,30,No,,17-Sep-2026,Would value clearer role expectations and regular feedback.,No,Set regular manager check-ins,HRBP,05-Oct-2026,Open
+EMP029,15-Sep-2026,9,55,No,,18-Sep-2026,Interested in stretch assignments and cross-functional exposure.,No,Explore a stretch assignment,Learning Partner,06-Oct-2026,Open
+EMP030,01-Sep-2026,5,-20,Yes,22-Aug-2026,04-Sep-2026,Positive about team collaboration; interested in career growth.,Yes,Career discussion with manager,People Manager,22-Sep-2026,In Progress

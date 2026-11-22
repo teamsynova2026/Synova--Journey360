@@ -1,0 +1,8 @@
+{
+  "name": "Journey360_Copy",
+  "description": "Internal mobility and talent lifecycle support workspace — AI suggests. Employee and manager decide together. HR supports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

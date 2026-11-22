@@ -1,0 +1,31 @@
+Employee ID,Full Name,Work Email,Location,Business Unit,Department,Team,Job Title,Grade/Band,Employment Type,Manager ID,Manager Name,HRBP,Cost Center,Work Mode,Employment Status,Date of Joining
+EMP001,Aarav Mehta,aarav.mehta@example.com,Bengaluru,Technology,Engineering,Platform Engineering,Engineering Manager,M3,Full-time,EMP010,Priya Nair,Neha Rao,CC1001,Hybrid,Active,12-Apr-2021
+EMP002,Diya Sharma,diya.sharma@example.com,Hyderabad,Technology,Engineering,Data Engineering,Senior Data Engineer,M2,Full-time,EMP010,Priya Nair,Neha Rao,CC1001,Remote,Active,08-Aug-2022
+EMP003,Kabir Iyer,kabir.iyer@example.com,Pune,Technology,Product,Product Management,Product Manager,M2,Full-time,EMP011,Rohan Desai,Neha Rao,CC1002,Hybrid,Active,02-Nov-2020
+EMP004,Meera Krishnan,meera.krishnan@example.com,Chennai,People,Human Resources,People Operations,HR Operations Specialist,M1,Full-time,EMP012,Ananya Bose,Neha Rao,CC2001,Hybrid,Active,13-Feb-2023
+EMP005,Ishaan Kapoor,ishaan.kapoor@example.com,Mumbai,Finance,Finance,Financial Planning,Financial Analyst,M1,Full-time,EMP013,Vikram Shah,Neha Rao,CC3001,On-site,Notice Period,08-Jan-2024
+EMP006,Sara Thomas,sara.thomas@example.com,Bengaluru,Technology,Engineering,Quality Engineering,QA Engineer,M1,Full-time,EMP010,Priya Nair,Neha Rao,CC1001,Hybrid,Active,19-Jun-2023
+EMP007,Vihaan Reddy,vihaan.reddy@example.com,Hyderabad,Sales,Sales,Enterprise Sales,Account Executive,M2,Full-time,EMP014,Arjun Menon,Kavita Pillai,CC4001,Remote,Active,27-Sep-2021
+EMP008,Anaya Gupta,anaya.gupta@example.com,Delhi,Marketing,Marketing,Digital Marketing,Marketing Specialist,M1,Full-time,EMP015,Nisha Verma,Kavita Pillai,CC5001,Hybrid,Active,06-May-2024
+EMP009,Reyansh Patel,reyansh.patel@example.com,Ahmedabad,Operations,Customer Success,Customer Support,Customer Success Associate,M1,Full-time,EMP016,Sanjay Kulkarni,Kavita Pillai,CC6001,On-site,Notice Period,20-Jan-2025
+EMP010,Priya Nair,priya.nair@example.com,Bengaluru,Technology,Engineering,Platform Engineering,Senior Engineering Manager,M4,Full-time,EMP017,Karan Malhotra,Neha Rao,CC1001,Hybrid,Active,16-Jul-2018
+EMP011,Rohan Desai,rohan.desai@example.com,Pune,Technology,Product,Product Management,Director - Product,M4,Full-time,EMP017,Karan Malhotra,Neha Rao,CC1002,Hybrid,Active,06-Mar-2017
+EMP012,Ananya Bose,ananya.bose@example.com,Chennai,People,Human Resources,People Operations,People Operations Manager,M3,Full-time,EMP018,Shalini Menon,Neha Rao,CC2001,Hybrid,Active,14-Oct-2019
+EMP013,Vikram Shah,vikram.shah@example.com,Mumbai,Finance,Finance,Financial Planning,Finance Manager,M3,Full-time,EMP018,Shalini Menon,Neha Rao,CC3001,Hybrid,Active,03-Feb-2020
+EMP014,Arjun Menon,arjun.menon@example.com,Hyderabad,Sales,Sales,Enterprise Sales,Regional Sales Manager,M3,Full-time,EMP019,Devika Rao,Kavita Pillai,CC4001,Hybrid,Active,24-Jun-2019
+EMP015,Nisha Verma,nisha.verma@example.com,Delhi,Marketing,Marketing,Digital Marketing,Marketing Manager,M3,Full-time,EMP019,Devika Rao,Kavita Pillai,CC5001,Hybrid,Active,07-Sep-2020
+EMP016,Sanjay Kulkarni,sanjay.kulkarni@example.com,Ahmedabad,Operations,Customer Success,Customer Support,Customer Support Manager,M3,Full-time,EMP019,Devika Rao,Kavita Pillai,CC6001,On-site,Active,10-Dec-2018
+EMP017,Karan Malhotra,karan.malhotra@example.com,Bengaluru,Executive,Leadership,Business Leadership,VP - Technology,M5,Full-time,EMP020,Aditi Sinha,Neha Rao,CC9001,Hybrid,Active,11-Jan-2016
+EMP018,Shalini Menon,shalini.menon@example.com,Bengaluru,Executive,Leadership,Corporate Functions,VP - Corporate Functions,M5,Full-time,EMP020,Aditi Sinha,Neha Rao,CC9001,Hybrid,Active,02-May-2016
+EMP019,Devika Rao,devika.rao@example.com,Mumbai,Executive,Leadership,Commercial Leadership,VP - Commercial,M5,Full-time,EMP020,Aditi Sinha,Kavita Pillai,CC9001,Hybrid,Active,17-Aug-2015
+EMP020,Aditi Sinha,aditi.sinha@example.com,Bengaluru,Executive,Leadership,Executive Office,Chief Operating Officer,M6,Full-time,,,Neha Rao,CC9001,Hybrid,Active,01-Apr-2014
+EMP021,Advait Joshi,advait.joshi@example.com,Kochi,Technology,Engineering,Cloud Operations,Cloud Engineer,M1,Full-time,EMP010,Priya Nair,Neha Rao,CC1003,Remote,Notice Period,17-Mar-2025
+EMP022,Tara Srinivasan,tara.srinivasan@example.com,Bengaluru,People,Human Resources,Talent Acquisition,Talent Acquisition Partner,M2,Full-time,EMP012,Ananya Bose,Neha Rao,CC2002,Hybrid,Active,25-Apr-2022
+EMP023,Ritvik Bansal,ritvik.bansal@example.com,Noida,Technology,Product,Product Design,UX Designer,M1,Full-time,EMP011,Rohan Desai,Neha Rao,CC1002,Remote,Active,02-Sep-2024
+EMP024,Ira Fernandes,ira.fernandes@example.com,Goa,Marketing,Marketing,Content & Communications,Content Strategist,M2,Contract,EMP015,Nisha Verma,Kavita Pillai,CC5002,Remote,Notice Period,07-Jul-2025
+EMP025,Atharv Kulkarni,atharv.kulkarni@example.com,Pune,Finance,Finance,Accounts Payable,Accounts Executive,M1,Full-time,EMP013,Vikram Shah,Neha Rao,CC3002,Hybrid,Active,20-Nov-2023
+EMP026,Myra Chawla,myra.chawla@example.com,Chandigarh,Sales,Sales,Inside Sales,Sales Development Representative,M1,Full-time,EMP014,Arjun Menon,Kavita Pillai,CC4002,Remote,Exited,11-Aug-2025
+EMP027,Neil D'Souza,neil.dsouza@example.com,Bengaluru,Operations,Customer Success,Implementation,Implementation Consultant,M2,Full-time,EMP016,Sanjay Kulkarni,Kavita Pillai,CC6002,Hybrid,Active,05-Dec-2022
+EMP028,Pooja Bhat,pooja.bhat@example.com,Mysuru,Technology,Engineering,Quality Engineering,Automation Engineer,M2,Full-time,EMP010,Priya Nair,Neha Rao,CC1001,Remote,Active,15-Feb-2021
+EMP029,Yash Agarwal,yash.agarwal@example.com,Jaipur,People,Human Resources,Learning & Development,Learning Specialist,M1,Full-time,EMP012,Ananya Bose,Neha Rao,CC2003,Hybrid,Active,04-Mar-2024
+EMP030,Kavya Narayan,kavya.narayan@example.com,Bengaluru,Technology,Engineering,Data Engineering,Data Engineering Lead,M3,Full-time,EMP010,Priya Nair,Neha Rao,CC1001,Hybrid,Active,26-Aug-2019
